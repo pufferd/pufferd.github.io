@@ -1,0 +1,19 @@
+body {
+  font: 1.2em / 1.5 system-ui;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+.sender-column {
+  text-align: right;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
